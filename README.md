@@ -2,7 +2,7 @@
 
 Modified from [the original PostMark
 benchmark](https://openbenchmarking.org/test/pts/postmark) to report things in
-nanoseconds.
+microseconds.
 
 ## Building
 
